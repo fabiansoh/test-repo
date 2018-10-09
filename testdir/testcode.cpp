@@ -17,8 +17,3 @@ int newFunction2 ()
 {
     return 0;
 }
-
-int newFunction3 ()
-{
-    return 0;
-}
