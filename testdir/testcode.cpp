@@ -8,12 +8,12 @@ int main ()
     cout <<"Hello World!" <<endl;
 }
 
-int newFunction ()
+int newFunction2 ()
 {
     return 0;
 }
 
-int newFunction2 ()
+int newFunction3 ()
 {
     return 0;
 }
